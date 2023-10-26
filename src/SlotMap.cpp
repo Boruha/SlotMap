@@ -1,11 +1,8 @@
+#include "SlotMap.hpp"
+
 #include <iostream>
-#include "SloptMap.h"
-
-
 
 void SloptMap(){
-    
-
     #ifdef NDEBUG
     std::cout << "SloptMap/0.1.0: Hello World Release!\n";
     #else

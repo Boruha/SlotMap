@@ -1,5 +1,12 @@
+# IDE files
+.vscode
+
 # Prerequisites
 *.d
+
+# Build files
+CMakeUserPresets.json
+build
 
 # Compiled Object files
 *.slo
